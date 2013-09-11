@@ -1,0 +1,9 @@
+CreateZStream
+CloseZStream
+Flush
+ReadZStream
+WriteZStream
+monotouch_start_wwan
+monotouch_release_managed_ref
+monotouch_create_managed_ref
+monotouch_log
