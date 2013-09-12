@@ -1,0 +1,9 @@
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/OmgMoreTests.exe
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/Christopher/Projects/OmgMoreTests/OmgMoreTests/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
