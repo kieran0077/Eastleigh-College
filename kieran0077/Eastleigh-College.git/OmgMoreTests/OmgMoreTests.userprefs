@@ -10,10 +10,10 @@
       <File FileName="OmgMoreTests/Bullying.cs" Line="1" Column="1" />
       <File FileName="OmgMoreTests/Contacts.cs" Line="1" Column="1" />
       <File FileName="OmgMoreTests/Controller.cs" Line="1" Column="1" />
-      <File FileName="OmgMoreTests/Facilities.cs" Line="21" Column="38" />
+      <File FileName="OmgMoreTests/Facilities.cs" Line="9" Column="11" />
       <File FileName="OmgMoreTests/StudentGuideModel.cs" Line="1" Column="1" />
       <File FileName="OmgMoreTests/LatePage.cs" Line="1" Column="1" />
-      <File FileName="OmgMoreTests/IsolatedStorageSettings.cs" Line="12" Column="23" />
+      <File FileName="OmgMoreTests/IsolatedStorageSettings.cs" Line="1" Column="1" />
       <File FileName="OmgMoreTests/Info.plist" />
       <File FileName="OmgMoreTests/BullyingTabControl.cs" Line="1" Column="1" />
     </Files>
@@ -25,6 +25,12 @@
             <Node name="Facilities.cs" selected="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
